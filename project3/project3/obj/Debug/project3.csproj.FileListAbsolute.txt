@@ -1,0 +1,9 @@
+Z:\Csharp\project3\project3\bin\Debug\project3.exe.config
+Z:\Csharp\project3\project3\bin\Debug\project3.exe
+Z:\Csharp\project3\project3\bin\Debug\project3.pdb
+Z:\Csharp\project3\project3\obj\Debug\project3.csprojResolveAssemblyReference.cache
+Z:\Csharp\project3\project3\obj\Debug\project3.Form1.resources
+Z:\Csharp\project3\project3\obj\Debug\project3.Properties.Resources.resources
+Z:\Csharp\project3\project3\obj\Debug\project3.csproj.GenerateResource.Cache
+Z:\Csharp\project3\project3\obj\Debug\project3.exe
+Z:\Csharp\project3\project3\obj\Debug\project3.pdb
